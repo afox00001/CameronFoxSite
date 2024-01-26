@@ -12,3 +12,4 @@ function change_logo() {
 var logo_button = document.getElementById("label-for-id_-53");
 console.log(logo_button);
 logo_button.onclick=change_logo;
+console.log("TEST");
